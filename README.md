@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IsaiahTshabalala
 - 👀 I’m interested in Software Development, Block-Chain, Data Science, Artificial Intelligence, Machine Learning, etc.
-- 🌱 I’m currently learning Web Development and Java EE
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development and Java EE.
 - 📫 How to reach me: email lakeside.junction.1984@gmail.com
 
 <!---
